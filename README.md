@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Furkan Simsek
-- 🌱 I’m currently learning react-native
+- 🌱 I’m currently learning swift
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsekfurkan&theme=dark&show_icons=true)
