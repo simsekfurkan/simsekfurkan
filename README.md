@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Furkan Simsek
-- 🌱 I’m currently learning swift
+<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h3 align="center">A passionate iOS developer.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsekfurkan&theme=dark&show_icons=true)
+<a href="https://www.linkedin.com/in/furkansimsekk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ayşe-nur-bakırcı-0aaa3a160/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<!---
-simsekfurkan/simsekfurkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysenurbakirci&show_icons=true&locale=en&layout=compact" alt="aysenurbakirci" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurbakirci&" alt="aysenurbakirci" /></p>
