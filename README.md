@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsekfurkan&show_icons=true&locale=en&layout=compact" alt="simsekfurkan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simsekfurkan&" alt="simsekfurkan" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="simsekfurkan" /> </p>
